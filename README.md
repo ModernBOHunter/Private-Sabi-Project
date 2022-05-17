@@ -1,8 +1,11 @@
-# Introduction
-个人撒币计划-用于记录本人愿意赞助的对象
+## Introduction
+
+个人撒币计划-用于记录本人愿意赞助的对象  
 This is a project of private use which records subjects for which I intend to donate.
-对象排序按照字母排序
+
+对象排序按照字母排序  
 Subjects are in alphabetical order.
+
 # Organisations
 - [ascii2d](https://ascii2d.net/readme) 
 - [Dark Reader](https://opencollective.com/darkreader/donate)
