@@ -10,6 +10,7 @@ Subjects are in alphabetical order.
 - [ascii2d](https://ascii2d.net/readme) 
 - [Dark Reader](https://opencollective.com/darkreader/donate)
 - [e-hentai](https://e-hentai.org/bitcoin.php)
+- [Gutenberg](https://gutenberg.org/donate/)
 - [Kenomo](https://kemono.party/support)
 - [Libgen](https://libgen.life/viewtopic.php?p=79795#p79795)
 - [sci-hub](https://sci-hub.se/donate)
