@@ -17,6 +17,7 @@ Subjects are in alphabetical order.
 - [sci-hub](https://sci-hub.se/donate)
 - [Wikipedia](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=SG&uselang=zh-cn&utm_medium=spontaneous&utm_source=fr-redir&utm_campaign=spontaneous)
 # Patreon
+- [_ Boisvert](https://www.patreon.com/boisvert)
 - [Derpixon](https://www.patreon.com/derpixon)
 - [Liam Vickers](https://www.patreon.com/LiamVickersAnimation)
 - [Zone](https://www.patreon.com/zone)
