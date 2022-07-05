@@ -19,6 +19,7 @@ Subjects are in alphabetical order.
 # Patreon
 - [_ Boisvert](https://www.patreon.com/boisvert)
 - [Derpixon](https://www.patreon.com/derpixon)
+- [Felix Colgrave](https://www.patreon.com/felixcolgrave)
 - [Liam Vickers](https://www.patreon.com/LiamVickersAnimation)
 - [Zone](https://www.patreon.com/zone)
 # Byproducts and Miscellaneous
