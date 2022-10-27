@@ -7,6 +7,7 @@ This is a project of private use which records subjects for which I intend to do
 Subjects are in alphabetical order.
 
 # Organisations
+- [arXiv](https://arxiv.org/about/donate)
 - [ascii2d](https://ascii2d.net/readme) 
 - [Dark Reader](https://opencollective.com/darkreader/donate)
 - [e-hentai](https://e-hentai.org/bitcoin.php)
