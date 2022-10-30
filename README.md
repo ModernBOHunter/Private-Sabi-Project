@@ -24,7 +24,7 @@ Subjects are in alphabetical order.
 - [Liam Vickers](https://www.patreon.com/LiamVickersAnimation)
 - [Zone](https://www.patreon.com/zone)
 # Byproducts and Miscellaneous
+- [John Hexa](https://afdian.net/a/johnhexa)
 - [YOURLOCALBREADMAN](https://www.teepublic.com/user/voidcollective?utm_source=designer&utm_medium=social&utm_campaign=k8PnZ8AtQ5g)
 - [VivziePop](https://sharkrobot.com/collections/vivziepop)
 - [王志安](https://www.youtube.com/c/%E7%8E%8B%E5%BF%97%E5%AE%891)
-- [John Hexa](https://afdian.net/a/johnhexa)
