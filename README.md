@@ -15,7 +15,8 @@ Subjects are in alphabetical order.
 - [Gutenberg](https://gutenberg.org/donate/)
 - [Internet Archive](https://archive.org/donate)
 - [Kenomo](https://kemono.party/support)
-- [Libgen](https://libgen.life/viewtopic.php?p=79795)
+- [libgen](https://libgen.life/viewtopic.php?p=79795)
+- [Rime](https://rime.im/donate/)
 - [sci-hub](https://sci-hub.se/donate)
 - [Wikipedia](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=SG&uselang=zh-cn&utm_medium=spontaneous&utm_source=fr-redir&utm_campaign=spontaneous)
 # Patreon
