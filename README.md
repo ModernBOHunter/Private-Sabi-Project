@@ -19,6 +19,7 @@ Subjects are in alphabetical order.
 - [Rime](https://rime.im/donate/)
 - [sci-hub](https://sci-hub.se/donate)
 - [Wikipedia](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=SG&uselang=zh-cn&utm_medium=spontaneous&utm_source=fr-redir&utm_campaign=spontaneous)
+- [中國哲學書電子化計劃](https://ctext.org/help-us/zh#donate)
 # Patreon
 - [_ Boisvert](https://www.patreon.com/boisvert)
 - [Derpixon](https://www.patreon.com/derpixon)
