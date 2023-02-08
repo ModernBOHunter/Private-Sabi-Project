@@ -7,7 +7,7 @@ This is a project of private use which records subjects to which I intend to don
 Subjects are in alphabetical order.
 
 # Organisations
-- [Annas Archive](annas-archive.org)
+- [Annas Archive](annas-archive.org/donate)
 - [Archive of Our Own](https://archiveofourown.org/donate)
 - [arXiv](https://arxiv.org/about/donate)
 - [ascii2d](https://ascii2d.net/readme) 
