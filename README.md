@@ -25,6 +25,7 @@ Subjects are in alphabetical order.
 - [_ Boisvert](https://www.patreon.com/boisvert)
 - [Derpixon](https://www.patreon.com/derpixon)
 - [Felix Colgrave](https://www.patreon.com/felixcolgrave)
+- [Joel G](https://www.patreon.com/joelg)
 - [Liam Vickers](https://www.patreon.com/LiamVickersAnimation)
 - [Zone](https://www.patreon.com/zone)
 # Byproducts and Miscellaneous
