@@ -27,6 +27,7 @@ Subjects are in alphabetical order.
 - [Felix Colgrave](https://www.patreon.com/felixcolgrave)
 - [Joel G](https://www.patreon.com/joelg)
 - [Liam Vickers](https://www.patreon.com/LiamVickersAnimation)
+- [Revin Goff](https://www.patreon.com/revgoff)
 - [Zone](https://www.patreon.com/zone)
 # Byproducts and Miscellaneous
 - [John Hexa](https://afdian.net/a/johnhexa)
