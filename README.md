@@ -23,6 +23,7 @@ Subjects are in alphabetical order.
 - [中國哲學書電子化計劃](https://ctext.org/help-us/zh#donate)
 # Patreon
 - [_ Boisvert](https://www.patreon.com/boisvert)
+- [Cheat Engine](https://www.patreon.com/cheatengine)
 - [Derpixon](https://www.patreon.com/derpixon)
 - [Felix Colgrave](https://www.patreon.com/felixcolgrave)
 - [Joel G](https://www.patreon.com/joelg)
