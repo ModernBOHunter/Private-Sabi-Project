@@ -1,6 +1,6 @@
 ## Introduction
 
-个人撒币计划--用于记录本人愿意赞助的对象  
+个人撒币计划——用于记录本人愿意赞助的对象  
 This is a project of private use which records subjects to which I intend to donate.
 
 对象排序按照字母排序  
