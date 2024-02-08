@@ -20,6 +20,7 @@ Subjects are in alphabetical order.
 - [青空文庫|本の未来基金](https://honnomirai.net/donate.html)
 - [Rime](https://rime.im/donate/)
 - [sci-hub](https://sci-hub.se/donate)
+- [VideoLAN](https://www.videolan.org/contribute.html#money)
 - [Wikipedia](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=SG&uselang=zh-cn&utm_medium=spontaneous&utm_source=fr-redir&utm_campaign=spontaneous)
 - [中國哲學書電子化計劃](https://ctext.org/help-us/zh#donate)
 # Patreon
