@@ -17,7 +17,7 @@ Subjects are in alphabetical order.
 - [Internet Archive](https://archive.org/donate)
 - [Kenomo](https://kemono.party/support)
 - [libgen](https://libgen.life/viewtopic.php?p=79795)
-- [青空文庫|本の未来基金](https://honnomirai.net/donate.html)
+- [青空文庫](https://honnomirai.net/donate.html)
 - [Rime](https://rime.im/donate/)
 - [sci-hub](https://sci-hub.se/donate)
 - [VideoLAN](https://www.videolan.org/contribute.html#money)
