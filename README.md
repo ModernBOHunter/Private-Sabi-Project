@@ -34,7 +34,7 @@ Subjects are in alphabetical order.
 - [scpper](https://www.patreon.com/scpper)
 - [Zone](https://www.patreon.com/zone)
 # Byproducts and Miscellaneous
-- [John Hexa](https://afdian.net/a/johnhexa)
+- [John Hexa](https://afdian.net/a/q9adg)
 - [Neytirix](https://neytirix.shop/)
 - [YOURLOCALBREADMAN](https://www.teepublic.com/user/voidcollective?utm_source=designer&utm_medium=social&utm_campaign=k8PnZ8AtQ5g)
 - [VivziePop](https://sharkrobot.com/collections/vivziepop)
