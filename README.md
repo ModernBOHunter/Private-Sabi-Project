@@ -36,6 +36,5 @@ Subjects are in alphabetical order.
 # Byproducts and Miscellaneous
 - [John Hexa](https://afdian.net/a/q9adg)
 - [Neytirix](https://neytirix.shop/)
-- [YOURLOCALBREADMAN](https://www.teepublic.com/user/voidcollective?utm_source=designer&utm_medium=social&utm_campaign=k8PnZ8AtQ5g)
 - [VivziePop](https://sharkrobot.com/collections/vivziepop)
 - [王志安](https://www.paypal.com/paypalme/wangjuzhian)
