@@ -32,9 +32,11 @@ Subjects are in alphabetical order.
 - [Liam Vickers](https://www.patreon.com/LiamVickersAnimation)
 - [Revin Goff](https://www.patreon.com/revgoff)
 - [scpper](https://www.patreon.com/scpper)
+- [SMBC](https://www.patreon.com/ZachWeinersmith)
 - [Zone](https://www.patreon.com/zone)
 # Byproducts and Miscellaneous
 - [John Hexa](https://afdian.net/a/q9adg)
 - [Neytirix](https://neytirix.shop/)
 - [VivziePop](https://sharkrobot.com/collections/vivziepop)
 - [王志安](https://www.paypal.com/paypalme/wangjuzhian)
+- [xkcd](https://xkcd.com/books/)
