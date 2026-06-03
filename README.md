@@ -14,6 +14,7 @@ Subjects are in alphabetical order.
 - [Dark Reader](https://opencollective.com/darkreader/donate)
 - [e-hentai](https://e-hentai.org/bitcoin.php)
 - [Gutenberg](https://gutenberg.org/donate/)
+- [Inkscape](https://inkscape.org/support-us/donate/)
 - [Internet Archive](https://archive.org/donate)
 - [Kenomo](https://kemono.party/support)
 - [libgen](https://libgen.life/viewtopic.php?p=79795)
