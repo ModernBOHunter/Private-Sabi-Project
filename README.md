@@ -19,6 +19,7 @@ Subjects are in alphabetical order.
 - [Kenomo](https://kemono.party/support)
 - [libgen](https://libgen.life/viewtopic.php?p=79795)
 - [青空文庫](https://honnomirai.net/donate.html)
+- [RANDOM.ORG](https://www.random.org/donate)
 - [Rime](https://rime.im/donate/)
 - [sci-hub](https://sci-hub.se/donate)
 - [tsoding](https://github.com/tsoding/donate)
