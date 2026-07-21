@@ -11,7 +11,7 @@ Subjects are in alphabetical order.
 - [Archive of Our Own](https://archiveofourown.org/donate)
 - [arXiv](https://arxiv.org/about/donate)
 - [ascii2d](https://ascii2d.net/readme) 
-- [Dark Reader](https://opencollective.com/darkreader/donate)
+- [Dark Reader](https://darkreader.org/)
 - [e-hentai](https://e-hentai.org/bitcoin.php)
 - [Gutenberg](https://gutenberg.org/donate/)
 - [Inkscape](https://inkscape.org/support-us/donate/)
