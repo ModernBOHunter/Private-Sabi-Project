@@ -23,6 +23,7 @@ Subjects are in alphabetical order.
 - [RANDOM.ORG](https://www.random.org/donate)
 - [Rime](https://rime.im/donate/)
 - [sci-hub](https://sci-hub.se/donate)
+- [tokyospliff](https://streamlabs.com/sl_id_44402587-f090-3c44-869e-5cf45d2e58e5/tip)
 - [tsoding](https://github.com/tsoding/donate)
 - [VideoLAN](https://www.videolan.org/contribute.html#money)
 - [Wikipedia](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=SG&uselang=zh-cn&utm_medium=spontaneous&utm_source=fr-redir&utm_campaign=spontaneous)
