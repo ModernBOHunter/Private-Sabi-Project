@@ -28,6 +28,7 @@ Subjects are in alphabetical order.
 - [VideoLAN](https://www.videolan.org/contribute.html#money)
 - [Wikipedia](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=SG&uselang=zh-cn&utm_medium=spontaneous&utm_source=fr-redir&utm_campaign=spontaneous)
 - [中國哲學書電子化計劃](https://ctext.org/help-us/zh#donate)
+
 # Patreon
 - [_ Boisvert](https://www.patreon.com/boisvert)
 - [Cheat Engine](https://www.patreon.com/cheatengine)
@@ -39,8 +40,12 @@ Subjects are in alphabetical order.
 - [scpper](https://www.patreon.com/scpper)
 - [SMBC](https://www.patreon.com/ZachWeinersmith)
 - [Zone](https://www.patreon.com/zone)
+
 # Byproducts and Miscellaneous
 - [Neytirix](https://neytirix.shop/)
 - [VivziePop](https://sharkrobot.com/collections/vivziepop)
 - [王志安](https://www.paypal.com/paypalme/wangjuzhian)
 - [xkcd](https://xkcd.com/books/)
+
+# Unsupportable Projects
+- [Sarasa/Iosevka the font](https://picaq.github.io/sarasa/)
