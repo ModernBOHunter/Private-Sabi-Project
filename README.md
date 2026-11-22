@@ -6,24 +6,23 @@ This is a project of private use which records subjects to which I intend to don
 对象排序按照字母排序  
 Subjects are in alphabetical order.
 
+# To Decide
+- [Archive of Our Own](https://archiveofourown.org/donate)
+- [Inkscape](https://inkscape.org/support-us/donate/)
+
 # Organisations
 - [Annas Archive](annas-archive.org/donate)
-- [Archive of Our Own](https://archiveofourown.org/donate)
 - [arXiv](https://arxiv.org/about/donate)
 - [ascii2d](https://ascii2d.net/readme)
 - [Banana Space](https://www.bananaspace.org/wiki/%E9%A6%99%E8%95%89%E7%A9%BA%E9%97%B4:%E6%8D%90%E5%8A%A9)
 - [Dark Reader](https://darkreader.org/)
 - [e-hentai](https://e-hentai.org/bitcoin.php)
 - [Gutenberg](https://gutenberg.org/donate/)
-- [Inkscape](https://inkscape.org/support-us/donate/)
 - [Internet Archive](https://archive.org/donate)
-- [Kenomo](https://kemono.party/support)
-- [libgen](https://libgen.life/viewtopic.php?p=79795)
 - [青空文庫](https://honnomirai.net/donate.html)
 - [RANDOM.ORG](https://www.random.org/donate)
 - [Rime](https://rime.im/donate/)
 - [sci-hub](https://sci-hub.se/donate)
-- [tokyospliff](https://streamlabs.com/sl_id_44402587-f090-3c44-869e-5cf45d2e58e5/tip)
 - [tsoding](https://github.com/tsoding/donate)
 - [VideoLAN](https://www.videolan.org/contribute.html#money)
 - [Wikipedia](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=SG&uselang=zh-cn&utm_medium=spontaneous&utm_source=fr-redir&utm_campaign=spontaneous)
@@ -31,7 +30,6 @@ Subjects are in alphabetical order.
 
 # Patreon
 - [_ Boisvert](https://www.patreon.com/boisvert)
-- [Cheat Engine](https://www.patreon.com/cheatengine)
 - [Derpixon](https://www.patreon.com/derpixon)
 - [Felix Colgrave](https://www.patreon.com/felixcolgrave)
 - [Joel G](https://www.patreon.com/joelg)
